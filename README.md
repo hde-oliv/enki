@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <img src="https://github.com/42sp/42labs-selection-process-hde-oliv/actions/workflows/release-ci.yml/badge.svg"/>
-  <p> A REST API that fetches custom data from École 42 users, written in C. </p>
+  <p> A REST API that fetches custom data from École 42 users, written in C. (Challenge from 42Labs) </p>
 </div>
 
 ## Constructed with:
@@ -17,20 +17,11 @@
 - [Docker](http://docker.io/)
 - [Heroku](https://www.heroku.com/)
 
-## How it works:
-On an instance, you can send a GET method on the main route to receive a JSON containing curated information about a École 42 student.  
-To see all the routes, read the [wiki section](https://github.com/42sp/42labs-selection-process-hde-oliv/wiki/Endpoints) about it.
+## Brief Introduction:
 
-## How to instantiate it:
-You can read the [wiki section](https://github.com/42sp/42labs-selection-process-hde-oliv/wiki/How-to-host-it) on how to instantiate it.
+This is my project for the 42 Labs challenge of making an API entirely in C, it wasn't easy, but, here it is.  
+You can read my post of thoughts about it on my blog: https://hde-oliv.github.io/p/rest-in-c/
 
-## It is extensible!
-You can implement more routes easily, read the [wiki section](https://github.com/42sp/42labs-selection-process-hde-oliv/wiki/How-to-expand-it) for details.
-
-## And you can test it now!
-The latest version is already hosted on Heroku, you can access it on: https://enki-api.herokuapp.com/
-
-## For more stuff, read the Wiki!
-RTFW!!!
-
-##### Licensed with GPLv3
+## More information:
+You can see more information in the [wiki](https://github.com/hde-oliv/enki/wiki) of this project. It also contains the original readme and the page explaining how to host it!  
+This repository has few commits because I didn't want to bring the old history (lots of security flaws). :)
