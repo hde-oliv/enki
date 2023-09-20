@@ -20,8 +20,9 @@
 ## Brief Introduction:
 
 This is my project for the 42 Labs challenge of making an API entirely in C, it wasn't easy, but, here it is.  
-You can read my post of thoughts about it on my blog: https://hde-oliv.github.io/p/rest-in-c/
 
 ## More information:
 You can see more information in the [wiki](https://github.com/hde-oliv/enki/wiki) of this project. It also contains the original readme and the page explaining how to host it!  
-This repository has few commits because I didn't want to bring the old history (lots of security flaws). :)
+
+## License
+This project is licensed under the GNU Affero General Public License (AGPL) version 3 - see the [LICENSE](https://github.com/hde-oliv/enki/blob/master/LICENSE) file for details.
